@@ -10,8 +10,9 @@ function NumbersAPI() {
     }, [])
 
     return (
-        <div>
-            {fact}
+        <div className="numbers-api-container">
+            <button>Random Fact</button>
+            <p>{fact}</p>
         </div>
     )
 }

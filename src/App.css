@@ -1,5 +1,10 @@
 .App {
+  width: 80%;
+  max-width: 1200px;
+  margin: auto;
+  border-top: 1px solid lightgray;
+  border-left: 1px solid lightgray;
+  border-right: 1px solid lightgray;
   text-align: center;
 }
-
 
